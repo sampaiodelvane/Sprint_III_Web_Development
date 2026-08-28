@@ -69,64 +69,10 @@ opticode	1234
 
 O login foi criado apenas para fins acadêmicos e não utiliza banco de dados ou sistema real de autenticação.
 
-Estrutura do projeto
-Sprint-3-web-dev/
-├── docs/
-│   ├── plano-de-teste-ux.md
-│   ├── checklist-ui.md
-│   └── relatorio-de-testes.md
-├── prototipo/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── assets/imagens/
-│   ├── components/
-│   │   ├── Cabecalho.jsx
-│   │   ├── Hero.jsx
-│   │   ├── Login.jsx
-│   │   ├── Armazenamento.jsx
-│   │   ├── Filtros.jsx
-│   │   ├── BotaoFiltro.jsx
-│   │   ├── Galeria.jsx
-│   │   ├── CardFoto.jsx
-│   │   ├── FotoDoDia.jsx
-│   │   ├── Estatisticas.jsx
-│   │   └── Rodape.jsx
-│   ├── dados/
-│   │   ├── calculos.js
-│   │   └── acessos.js
-│   ├── App.jsx
-│   ├── App.css
-│   ├── main.jsx
-│   └── index.css
-├── index.html
-├── package.json
-├── vite.config.js
-├── INTEGRANTES.TXT
-└── README.md
-Componentes
-
-O App.jsx funciona como componente principal da aplicação e organiza os demais componentes.
-
-App
-├── Cabecalho
-├── Hero
-├── Login
-├── Armazenamento
-├── Filtros
-│   └── BotaoFiltro
-├── Galeria
-│   └── CardFoto
-├── FotoDoDia
-├── Estatisticas
-└── Rodape
-
 Os dados necessários são enviados aos componentes através de props.
 
 Recursos utilizados na Sprint
-
 Durante a migração para React foram utilizados os principais conceitos trabalhados na disciplina:
-
 Recurso	Aplicação
 Componentes funcionais	Componentes da pasta src/components
 Props	Comunicação entre os componentes
@@ -156,7 +102,7 @@ GitHub:
 https://github.com/sampaiodelvane/Sprint_III_Web_Development.git
 
 Vercel:
-sprint-iii-web-development.vercel.app
+https://sprint-iii-web-development.vercel.app
 
 
 NTEGRANTES DO GRUPO - OptiCode
