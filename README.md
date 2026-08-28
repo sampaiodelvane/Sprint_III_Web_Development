@@ -64,8 +64,8 @@ Login para teste
 
 A aplicação possui um login simples para liberar o conteúdo da câmera.
 
-Usuário	Senha
-opticode	1234
+Usuário: opticode
+Senha: 1234
 
 O login foi criado apenas para fins acadêmicos e não utiliza banco de dados ou sistema real de autenticação.
 
