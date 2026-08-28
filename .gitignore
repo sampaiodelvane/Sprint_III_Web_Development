@@ -1,0 +1,22 @@
+# dependencias
+node_modules
+
+# build
+dist
+dist-ssr
+
+# logs
+*.log
+npm-debug.log*
+
+# editor / sistema
+.vscode
+.DS_Store
+Thumbs.db
+
+# variaveis de ambiente
+.env
+.env.local
+
+# vercel
+.vercel
