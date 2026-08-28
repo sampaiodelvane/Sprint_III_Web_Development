@@ -156,7 +156,7 @@ GitHub:
 https://github.com/sampaiodelvane/Sprint_III_Web_Development.git
 
 Vercel:
-sprint-iii-web-development-63su0jaiu-opticode.vercel.app
+sprint-iii-web-development.vercel.app
 
 
 NTEGRANTES DO GRUPO - OptiCode
