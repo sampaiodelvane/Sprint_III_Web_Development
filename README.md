@@ -85,9 +85,7 @@ Testes de UX e UI
 
 A documentação dos testes está disponível na pasta /docs:
 
-plano-de-teste-ux.md
-checklist-ui.md
-relatorio-de-testes.md
+teste.md
 
 Esses arquivos foram utilizados para organizar os testes de usabilidade e interface realizados no projeto.
 
